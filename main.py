@@ -23,7 +23,7 @@ def isitaninteger(num):
 
 def main():
     print("Hello learners!")
-    print("Bienvenido a la calculadora 👩‍💻")
+    print("Bienvenido a la calculadora")
 
     cantidad = int(input("¿Cuántos números quieres ingresar? "))
 
